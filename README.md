@@ -3,6 +3,8 @@
 An event-driven pipeline that automatically enriches Jira issues using a local AI model.
 No API keys. No cloud AI. Everything runs on your machine.
 
+<img width="1536" height="1024" alt="Copilot_20260401_183042" src="https://github.com/user-attachments/assets/248099ba-9ba3-4441-8295-eb8aac89c2f6" />
+
 ---
 
 ## How It Works
